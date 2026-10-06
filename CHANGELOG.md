@@ -1,5 +1,11 @@
 # @read-frog/extension
 
+## 1.50.2
+
+### Patch Changes
+
+- [#2306](https://github.com/mengxi-ream/read-frog/pull/2306) [`001e0b2`](https://github.com/mengxi-ream/read-frog/commit/001e0b2984fbdb267e7dd68dd1b1b32e170d7310) Thanks [@mengxi-ream](https://github.com/mengxi-ream)! - i18n(manifest): name what Read Frog does in the extension name and description in every language, and use the Read Frog name in Japanese
+
 ## 1.50.1
 
 ### Patch Changes
